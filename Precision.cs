@@ -4,7 +4,8 @@ public class Precision
     
 public int MaxInteger = 2147483647;
 
-public int DecimalProduct = 2.53468 * 5.75956733;
+public double DecimalProduct = 2.53468 * 5.75956733;
     
 }
+
 
